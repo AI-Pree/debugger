@@ -1,2 +1,2 @@
 # debugger
-Learning how to make a debugger in Rust
+Debugger in Rust
